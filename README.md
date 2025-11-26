@@ -56,10 +56,11 @@ To create a fully transparent, tamper-proof, decentralized financial management 
   Build an interactive dashboard using React.js + Ethers.js.
 
 - **Notifications/Alerts:**
-
-Contract Address: 0xd9145CCE52D386f254917e481eB44e9943F39138
   Students get blockchain event notifications for fees or scholarship updates.
 
 ---
 
 ## 📂 Project Structure
+
+## Contract Details
+Contract Address: 0xd9145CCE52D386f254917e481eB44e9943F39138
