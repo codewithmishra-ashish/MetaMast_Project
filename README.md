@@ -64,4 +64,4 @@ To create a fully transparent, tamper-proof, decentralized financial management 
 
 ## Contract Details
 Contract Address: 0xd9145CCE52D386f254917e481eB44e9943F39138
-![Project Screenshot](Screenshot-2025-11-26-160955.png)
+![Project Screenshot](ss.png)
